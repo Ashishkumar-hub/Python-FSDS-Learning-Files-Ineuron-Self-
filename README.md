@@ -5,11 +5,17 @@ DS stands for dataset here i will upload the jupyter notebook and dataset what e
 
 The below mentioned datasets are used when you will use the file "ARIMA and SARIMA.ipynb"
 
-1. DS for ARIMA SARIMA Perrin Freres Monthly Champagne.csv
+-  DS for ARIMA SARIMA Perrin Freres Monthly Champagne.csv
 
 The below mentioned datasets are used when you will use the file "Learn about Pandas .ipynb"
 
-1. DS Lets have some wine.csv
-2. DS MercBenz.csv
-3. DS Sample.xlsx
-4. DS TestIT.csv
+- 1. DS Lets have some wine.csv
+- 2. DS MercBenz.csv
+- 3. DS Sample.xlsx
+- 4. DS TestIT.csv
+
+## Merging Two Jyputer Notebooks 
+
+![nbmerge](https://user-images.githubusercontent.com/55132850/150506371-99cd4255-156d-4777-af8e-86d796badc9c.PNG)
+
+Referencce for merging : [PyPi - nbmerge](https://pypi.org/project/nbmerge/)
