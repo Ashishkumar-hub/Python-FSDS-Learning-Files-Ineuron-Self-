@@ -9,10 +9,10 @@ The below mentioned datasets are used when you will use the file "ARIMA and SARI
 
 The below mentioned datasets are used when you will use the file "Learn about Pandas .ipynb"
 
-- 1. DS Lets have some wine.csv
-- 2. DS MercBenz.csv
-- 3. DS Sample.xlsx
-- 4. DS TestIT.csv
+-  DS Lets have some wine.csv
+-  DS MercBenz.csv
+-  DS Sample.xlsx
+-  DS TestIT.csv
 
 ## Merging Two Jyputer Notebooks 
 
