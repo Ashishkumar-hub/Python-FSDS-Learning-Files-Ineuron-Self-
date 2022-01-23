@@ -14,6 +14,9 @@ The below mentioned datasets are used when you will use the file "Learn about Pa
 -  DS Sample.xlsx
 -  DS TestIT.csv
 
+## Challenge
+[Logging and Debugging Gist](https://gist.github.com/Ashishkumar-hub/12ea37e538bef88474d8f17551a21a20)  
+
 ## Merging Two Jyputer Notebooks 
 
 ![nbmerge](https://user-images.githubusercontent.com/55132850/150506371-99cd4255-156d-4777-af8e-86d796badc9c.PNG)
