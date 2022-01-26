@@ -22,3 +22,6 @@ The below mentioned datasets are used when you will use the file "Learn about Pa
 ![nbmerge](https://user-images.githubusercontent.com/55132850/150506371-99cd4255-156d-4777-af8e-86d796badc9c.PNG)
 
 Referencce for merging : [PyPi - nbmerge](https://pypi.org/project/nbmerge/)
+
+MongoDB : Refer MongoDB.ipynb to alter database using python 
+![MongoDB Atlas](https://user-images.githubusercontent.com/55132850/151156596-5a005157-6741-4122-a66a-a9e6768a1f5f.png)
